@@ -1,4 +1,4 @@
-Calculador de indíce de massa corporal
+## Calculador de indíce de massa corporal
 
 
 Aplicação bem simples feita usando js puro.
